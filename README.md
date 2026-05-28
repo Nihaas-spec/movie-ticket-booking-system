@@ -93,6 +93,7 @@ Run
 Admin Password: umt101
 
 ### Project Structure
+
 movie-ticket-booking-system/
 ├── src/
 │   └── main.cpp          # Full application source code

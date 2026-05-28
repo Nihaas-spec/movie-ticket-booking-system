@@ -112,9 +112,10 @@ movie-ticket-booking-system/
 - Database integration for movie and user management
 
 ### Author
+```
 M. Nihaas Bhatti (F2024266196)
-Co-Author: Salik Saeed (F2024266596)
 Course: Object Oriented Programming
+```
 
 ### License
 MIT — free to use, modify, and distribute

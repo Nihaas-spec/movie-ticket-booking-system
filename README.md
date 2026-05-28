@@ -81,6 +81,33 @@ Available Seats:
 
 ### Prerequisites
 - C++ compiler (GCC, MinGW, or any C++11 compatible compiler)
+- 
+### Project Structure
+
+movie-ticket-booking-system/
+├── src/
+│   └── main.cpp          # Full application source code
+├── docs/                 # Project documentation (if any)
+├── screenshots/          # Sample output screenshots
+├── README.md
+└── .gitignore
+
+### Future Improvements
+
+- File handling for persistent data storage
+- GUI using Qt or web interface
+- Payment integration
+- Email confirmation for bookings
+- User registration system
+- Database integration for movie and user management
+
+### Author
+M. Nihaas Bhatti (F2024266196)
+Co-Author: Salik Saeed (F2024266596)
+Course: Object Oriented Programming
+
+### License
+MIT — free to use, modify, and distribute
 
 ### Compile
 ```bash
@@ -94,35 +121,3 @@ g++ -std=c++11 -o ticket_system.exe src/main.cpp
 ticket_system.exe
 
 Admin Password: umt101
-
-📂 Project Structure
-
-movie-ticket-booking-system/
-├── src/
-│   └── main.cpp          # Full application source code
-├── docs/                 # Project documentation (if any)
-├── screenshots/          # Sample output screenshots
-├── README.md
-└── .gitignore
-
-Future Improvements
-
-File handling for persistent data storage
-
-GUI using Qt or web interface
-
-Payment integration
-
-Email confirmation for bookings
-
-User registration system
-
-Database integration for movie and user management
-
-👤 Author
-M. Nihaas Bhatti (F2024266196)
-Co-Author: Salik Saeed (F2024266596)
-Course: Object Oriented Programming
-
-📄 License
-MIT — free to use, modify, and distribute

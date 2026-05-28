@@ -93,6 +93,7 @@ Run
 Admin Password: umt101
 
 ### Project Structure
+```
 movie-ticket-booking-system/
 ├── src/
 │   └── main.cpp          # Full application source code
@@ -100,7 +101,7 @@ movie-ticket-booking-system/
 ├── screenshots/          # Sample output screenshots
 ├── README.md
 └── .gitignore
-
+```
 ### Future Improvements
 
 - File handling for persistent data storage

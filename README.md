@@ -45,7 +45,7 @@ A console-based movie ticket booking system built with **Object Oriented Program
 
 ### Admin Panel
 --- Admin Panel ---
-
+```
 1. Add Movie
 
 2. View Movies
@@ -57,21 +57,23 @@ A console-based movie ticket booking system built with **Object Oriented Program
 Choice: 1
 Enter movie title: The Batman
 Movie "The Batman" added successfully.
-
+```
 
 ### Customer Panel - Movie List
+```
 --- Movie List ---
 Movie: The Batman | Seats Left: 20
 Movie: Inception | Seats Left: 20
-
+```
 
 ### Seat Map
+```
 Available Seats:
 [1] [2] [3] [4] [5]
 [6] [7] [8] [9] [10]
 [11] [12] [13] [14] [15]
 [16] [17] [18] [19] [20]
-
+```
 
 **Legend:** `[X]` = Booked | `[number]` = Available
 

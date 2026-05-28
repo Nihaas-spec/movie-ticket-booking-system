@@ -81,9 +81,18 @@ Available Seats:
 
 ### Prerequisites
 - C++ compiler (GCC, MinGW, or any C++11 compatible compiler)
-- 
-### Project Structure
 
+### Compile
+```bash
+g++ -std=c++11 -o ticket_system src/main.cpp
+```
+Run
+```bash
+./ticket_system
+```
+Admin Password: umt101
+
+### Project Structure
 movie-ticket-booking-system/
 ├── src/
 │   └── main.cpp          # Full application source code
@@ -109,15 +118,3 @@ Course: Object Oriented Programming
 ### License
 MIT — free to use, modify, and distribute
 
-### Compile
-```bash
-g++ -std=c++11 -o ticket_system src/main.cpp
-
-Run
-./ticket_system
-
-On Windows (MinGW)
-g++ -std=c++11 -o ticket_system.exe src/main.cpp
-ticket_system.exe
-
-Admin Password: umt101
